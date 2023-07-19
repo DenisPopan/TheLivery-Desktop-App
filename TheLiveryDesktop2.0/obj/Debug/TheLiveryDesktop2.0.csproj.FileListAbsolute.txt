@@ -1,0 +1,52 @@
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.csproj.AssemblyReference.cache
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\MainWindow.g.cs
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\App.g.cs
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0_MarkupCompile.cache
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0_MarkupCompile.lref
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\TheLiveryDesktop2.0.exe.config
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\TheLiveryDesktop2.0.exe
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\TheLiveryDesktop2.0.pdb
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\MainWindow.baml
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.g.resources
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2._0.Properties.Resources.resources
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.csproj.GenerateResource.cache
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.csproj.CoreCompileInputs.cache
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.exe
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.pdb
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\Database1.mdf
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\Database1_log.ldf
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\AutoLotModel.dll
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\EntityFramework.dll
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\AutoLotModel.pdb
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\AutoLotModel.dll.config
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\EntityFramework.xml
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0_Content.g.cs
+C:\Users\claus\source\repos\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.csproj.CopyComplete
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\Database1.mdf
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\Database1_log.ldf
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\TheLiveryDesktop2.0.exe.config
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\TheLiveryDesktop2.0.exe
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\TheLiveryDesktop2.0.pdb
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\AutoLotModel.dll
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\EntityFramework.dll
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\AutoLotModel.pdb
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\AutoLotModel.dll.config
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\EntityFramework.xml
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.csprojAssemblyReference.cache
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\MainWindow.g.cs
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\App.g.cs
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0_Content.g.cs
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0_MarkupCompile.cache
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0_MarkupCompile.lref
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\MainWindow.baml
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.g.resources
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2._0.Properties.Resources.resources
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.csproj.GenerateResource.cache
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.csproj.CoreCompileInputs.cache
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.csproj.CopyComplete
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.exe
+C:\Users\popan\Desktop\Proiecte bune finale!\TheLiveryDesktop2.0\TheLiveryDesktop2.0\obj\Debug\TheLiveryDesktop2.0.pdb
